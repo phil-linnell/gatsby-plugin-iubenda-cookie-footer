@@ -41,6 +41,6 @@
     "@babel/runtime": "^7.4.3"
   },
   "peerDependencies": {
-    "gatsby": ">=4.6.0"
+    "gatsby": ">=4.7.2"
   }
 }
